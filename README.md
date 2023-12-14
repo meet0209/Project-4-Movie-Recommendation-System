@@ -16,7 +16,7 @@ pip install pandas sklearn
 
 ## Usage
 
-Run the script `Grand finale.py` with Python. The function `get_recommendations()` takes a movie title as input and outputs the 10 most similar movies.
+Run the script `Project 4 Movie Recommendation System.ipynb` with Python. The function `get_recommendations()` takes a movie title as input and outputs the 10 most similar movies.
 
 ```
 python
